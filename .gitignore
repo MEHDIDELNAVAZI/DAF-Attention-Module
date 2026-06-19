@@ -1,0 +1,7 @@
+# Ignore model weights and large datasets
+weights/
+data/
+*.pth
+*.onnx
+*.zip
+*.csv
